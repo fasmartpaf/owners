@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602419679202",
+    "project_id": "dalabaat-78957",
+    "storage_bucket": "dalabaat-78957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602419679202:android:fd0deff88345c1b2c3b3bb",
+        "android_client_info": {
+          "package_name": "com.dalabaatapp.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602419679202-c4e0l8r7lbumotua5v4d12pt69sjj38c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalabaatapp.vendor",
+            "certificate_hash": "04ac5861ddffd778e301248156032b36e6b774b1"
+          }
+        },
+        {
+          "client_id": "602419679202-dbd4pc0dkhstssosuuhbusspstml6dpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSzwO-l7tWl8Heswa8BYvCT8o-PUUYt44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602419679202-dbd4pc0dkhstssosuuhbusspstml6dpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

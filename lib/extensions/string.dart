@@ -1,0 +1,5 @@
+
+extension StringParsing on String {
+  //
+  
+}
